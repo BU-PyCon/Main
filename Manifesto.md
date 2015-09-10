@@ -22,13 +22,13 @@ and fill in  the gaps in programming knowledge that may exist from ad hoc learni
 the case in those who apply programming to research. This goal is accomplished through two main 
 tasks that we will attempt to undertake in each meeting.
 
-1) An experienced member of the group will teach a particular subject that s/he is knowledgeable 
+1. An experienced member of the group will teach a particular subject that s/he is knowledgeable 
    about. This is intended to be an open style of teaching where no single attendee is the teacher
    and no single attendee is the student. Instead this is a communal effort where knowledge is 
    shared by the knowledgeable. If you have the knowledge and skills to teach a particular subject
    to the group, by all means, you should teach it.
 
-2) The group will collaborate and work on coding projects together. The group projects may be to 
+2. The group will collaborate and work on coding projects together. The group projects may be to 
    create simple, not-so-useful programs to learn the implementation of new ideas, or it may also
    be to develop a useful program either for research or some astronomy related task. The desired
    outcome is to provide a framework for learning how to work with groups to develop code as well
