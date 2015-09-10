@@ -1,3 +1,4 @@
+```
   ____   _    _   _____          _____                __  __                _   __            _         
  |  _ \ | |  | | |  __ \        / ____|              |  \/  |              (_) / _|          | |        
  | |_) || |  | | | |__) |_   _ | |      ___   _ __   | \  / |  __ _  _ __   _ | |_  ___  ___ | |_  ___  
@@ -6,7 +7,7 @@
  |____/  \____/  |_|     \__, | \_____|\___/ |_| |_| |_|  |_| \__,_||_| |_||_||_|  \___||___/ \__|\___/ 
 ==========================__/ |=========================================================================
                          |___/                                                                          
-
+```
 
 The Boston University Python Conference (BU PyCon) is an open engagement of graduate students in 
 the Boston University Astronomy Department that is meant to foster teaching and learning of programming 
