@@ -5,8 +5,7 @@ Python, but also a large number of third party packages that are widly used in P
 matplotlib. Anaconda has has nice features for managing, removing, and adding packages.  If possible, 
 the 32-bit version should be installed since not all packages support 64-bit.
 
-To install Anaconda, you can go directly to their [website](http://continuum.io/downloads#py34), or use the following links below, depending
-on your OS.
+To install Anaconda, you can go directly to their [website](http://continuum.io/downloads#py34), or use the following links below, depending on your OS.
 
 Windows: 32-bit Python 3.4
 Mac: 64-bit Python 3.4 (requires OS X 10.7+)
