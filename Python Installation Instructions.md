@@ -9,7 +9,7 @@ To install Anaconda, you can go directly to their [website](http://continuum.io/
 
 Windows: 32-bit Python 3.4
 Mac: 64-bit Python 3.4 (requires OS X 10.7+)
-Linux: 32-bit Python 3.4 (After downloading, in the shell execute: bash Anaconda3-2.1.0-Linux-x86.sh)
+Linux: 32-bit Python 3.4 (After downloading, in the shell execute: bash Anaconda3-2.3.0-Linux-x86.sh)
 
 ####Reason for Using Python 3
 PyCon exclusively uses Python 3. The reason for this is that Python 3 is the most up to date version of
